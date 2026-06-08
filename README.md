@@ -1,7 +1,6 @@
-# Topological Analysis of Heterogeneous Treatment Effects
+# Persistence Landscapes for Heterogeneous Treatment Effects: Stability and Consistency under Piecewise-Linear Approximation
 
-Companion code for the bachelor's thesis *"On Methods of Data Analysis Applications"*
-(Apollonov N.A., HSE Faculty of Mathematics).
+Code for the bachelor's thesis (Apollonov N.A., HSE Faculty of Mathematics).
 
 This repository implements an end-to-end numerical pipeline accompanying the
 mathematical framework of the thesis:
